@@ -1,0 +1,228 @@
+{
+  "settings": {
+    "name": "G Kalyan Sai Goud",
+    "title": "Software Engineer",
+    "location": "India",
+    "summary": "Results-driven Computer Science Engineer skilled in full-stack web development, RESTful APIs, and data analytics with a passion for scalable applications.",
+    "profileImage": "https://i.ibb.co/6cYHgR3C/Photo.jpg"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:kalyansai.goundla@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "https://drive.google.com/file/d/1uUNHHGpXrX1Db0WqfE3FRsDj7tFzE7ma/view?usp=sharing"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "Java",
+          "Python",
+          "SQL",
+          "Spring Boot",
+          "Hibernate",
+          "REST APIs",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React.js",
+          "Bootstrap",
+          "MySQL",
+          "MongoDB",
+          "Power BI",
+          "Git",
+          "GitHub",
+          "VS Code",
+          "Eclipse",
+          "IntelliJ IDEA"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "Cubic Transportation Systems",
+          "position": "Device Software Engineer",
+          "period": "11/2025 - Present",
+          "description": "I work on developing, maintaining, and troubleshooting software for transportation devices used in smart mobility and fare collection systems. My role involves debugging device issues, validating firmware updates, enhancing performance, and ensuring reliable field operations through efficient engineering support."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "E-Commerce Web Application",
+          "description": "Developed a full-stack e-commerce platform using Spring Boot, Hibernate, React, and MySQL with secure REST APIs for product and order management. Implemented authentication, session management, and role-based access to enhance user experience. Optimized database queries and API performance for improved scalability and responsiveness.",
+          "tags": [
+            "Spring Boot",
+            "Hibernate",
+            "React",
+            "MySQL",
+            "REST APIs"
+          ],
+          "previewUrl": "",
+          "repoUrl": null
+        },
+        {
+          "title": "EV Charging Station Finder WebApp",
+          "description": "Built a web-based application for EV users to locate and reserve charging stations with real-time updates. Integrated authentication, booking workflows, and admin management for station monitoring. Designed APIs to synchronize station data and ensure efficient reservation handling.",
+          "tags": [
+            "Web Application",
+            "API",
+            "Authentication"
+          ],
+          "previewUrl": null,
+          "repoUrl": ""
+        },
+        {
+          "title": "Quiz Application",
+          "description": "Designed and developed a quiz management system using Spring Boot with REST APIs for quizzes, users, and scores. Implemented quiz creation, question retrieval, and result computation logic using JPA and MySQL. Ensured structured validation, error handling, and modular backend design for scalability.",
+          "tags": [
+            "Spring Boot",
+            "REST APIs",
+            "JPA",
+            "MySQL"
+          ],
+          "previewUrl": null,
+          "repoUrl": null
+        },
+        {
+          "title": "SQL Employee Database Management",
+          "description": "Designed a normalized relational database schema for employees, departments, and salaries. Wrote optimized SQL queries and joins for analytics and reporting. Implemented indexing and constraints to maintain data integrity and improve query performance.",
+          "tags": [
+            "SQL",
+            "Database",
+            "Schema"
+          ],
+          "previewUrl": null,
+          "repoUrl": null
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Malla Reddy University",
+          "degree": "Bachelor of Technology in Computer Science",
+          "period": "2021 - 2025"
+        },
+        {
+          "institution": "Bhavan's Sri Aurobindo Junior College",
+          "degree": "Intermediate (Class 12)",
+          "period": "2019 - 2021"
+        },
+        {
+          "institution": "St. Martin's High School (ICSE)",
+          "degree": "High School (Class 10)",
+          "period": "2009 - 2019"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "Infosys Springboard Programming using Java",
+          "description": ""
+        },
+        {
+          "title": "Infosys Springboard – Database Management System",
+          "description": ""
+        },
+        {
+          "title": "Tata Cybersecurity Security Analyst Job Simulation on Forage",
+          "description": ""
+        },
+        {
+          "title": "Zscaler - Fundamentals of Cybersecurity (EDU-102)",
+          "description": ""
+        },
+        {
+          "title": "Coursera - Programming Foundations with JavaScript, HTML, and CSS",
+          "description": ""
+        },
+        {
+          "title": "Cambridge - English Empower Level B2 Certification",
+          "description": ""
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "kalyansai.goundla@gmail.com",
+      "phone": "9381687807",
+      "location": "India"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "linkedin",
+          "url": "https://linkedin.com/in/kalyansai15",
+          "icon": "linkedin"
+        },
+        {
+          "platform": "github",
+          "url": "https://github.com/kalyansai15",
+          "icon": "github"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://x.com/kalyans95945291",
+          "icon": "twitter"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 G Kalyan Sai Goud. All rights reserved."
+  }
+}
